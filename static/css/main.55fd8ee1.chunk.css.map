@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,SACE,yBAAkB,CAAlB,iBAAkB,CAClB,aAAc,CACd,YAAa,CACb,4BACF,CAEA,WACE,kBACF","file":"main.55fd8ee1.chunk.css","sourcesContent":[".buttons {\n  width: max-content;\n  margin: 0 auto;\n  display: flex;\n  justify-content: space-around;\n}\n\n.goodsList {\n  margin-bottom: 30px;\n}\n"]}
